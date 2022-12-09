@@ -38,4 +38,4 @@ try:
     prominent = returnsProminent(string)
     print(prominent)
 except:
-    print('Houve algum erro...')
+    print('There was some error...')
